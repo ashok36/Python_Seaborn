@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Precedence_Constraints", "Precedence_Constraints\Precedence_Constraints.dtproj", "{90FE9688-43CC-408D-B0B1-1107AC89B1E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FE9688-43CC-408D-B0B1-1107AC89B1E8}.Development|Default.ActiveCfg = Development
+		{90FE9688-43CC-408D-B0B1-1107AC89B1E8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A783E8-FF96-4BF1-A538-3EF18300FB7E}
+	EndGlobalSection
+EndGlobal
